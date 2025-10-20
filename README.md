@@ -75,13 +75,13 @@ Hostel-Management-System/
 
 ## 📊 ER Diagram
 
-📌 **[View ER Diagram (PDF)](./report/ER-Diagram.pdf)**
+📌 **[View ER Diagram (PDF)](./Project%20Report.pdf)**
 
 ---
 
 ## 📘 Project Report
 
-📄 **[Download Full Project Report (PDF)](./report/Project-Report.pdf)**
+📄 **[Download Full Project Report (PDF)](./Project%20Report.pdf)**
 
 The report includes:
 
